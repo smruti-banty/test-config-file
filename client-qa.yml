@@ -3,7 +3,7 @@ client:
     url: "{cipher}7be7f15d05461544116246fdaf41081faa635cf31e243572105f3c5823f5b0837c7c676c28c10264c54ca9ebe6352f14"
   timeout:
     connect: 1000
-    read: 20000
+    read: 9000
 
   story:
     title:
