@@ -1,0 +1,22 @@
+# spring:
+#   profiles:
+#     active: prod
+
+client:
+  service:
+    url: http://api.example.com
+  timeout:
+    connect: 5000
+    read: 10000
+  story:
+    title: 
+    - "The Great Adventure"
+    - "Mystery of the Lost City"
+    - "Journey to the Unknown"
+    author:
+      name: "Alice Smith"
+      age: 34
+
+
+        
+  

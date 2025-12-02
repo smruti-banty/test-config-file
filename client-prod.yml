@@ -1,0 +1,15 @@
+client:
+  service:
+    url: http://api-prod.example.com
+  timeout:
+    connect: 1000
+    read: 20000
+
+  story:
+    title:
+      - "The Great Adventure"
+      - "Mystery of the Lost City"
+      - "Journey to the Unknown"
+    author:
+      name: "Bob Johnson"
+      age: 45
